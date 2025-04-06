@@ -1,0 +1,4 @@
+name: Aetherium
+version: '1.0-SNAPSHOT'
+main: com.larssies.aetherium.Aetherium
+api-version: '1.21'
